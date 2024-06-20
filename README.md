@@ -1,13 +1,8 @@
-# portfolio
+# Jean-Pierre, Sovi Guidi
 
-
-# Who Am I
-
-
-
-# Experience
+This portfolio is under construction.
+Please, come back later
 
 
 
-# achievement
 
