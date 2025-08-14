@@ -9,7 +9,15 @@
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 </head>
 <body>
-    <h3>Portfolio de Jean-Pierre</h3>
+    <div id="menubar"></div>
+
+
+
+
+
+    <script>
+        fetch("menu.html").then(response => response.text()).then(data => document.getElementById("menubar").innerHTML=data)
+    </script>
 
     
     
